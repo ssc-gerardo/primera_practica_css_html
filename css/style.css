@@ -110,7 +110,7 @@ body{
         justify-content:space-between;
     }
     .nav_style{
-        background-color: darkblue;
+        background-color: #1a2e45;
         display:flex;
         justify-content:space-between;
         align-items: flex-start;
